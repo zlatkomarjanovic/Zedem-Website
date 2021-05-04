@@ -1,0 +1,45 @@
+.text {
+  margin : 10%;
+}
+
+.odmakni {
+  margin-top:30%;
+}
+
+.recomended {
+  text-align: center;
+  letter-spacing: 3px;
+  transform: scale(1.3);
+  padding: 5px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  color:#fff;
+
+}
+
+.bgzrc {
+  background-color: #674cc7;
+  border-radius: 25px;
+
+}
+
+.servicecontainer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+
+}
+
+.imageservice {
+  height : 50%;
+}
+
+.imgica {
+  height: 200px;
+  margin : auto;
+}
